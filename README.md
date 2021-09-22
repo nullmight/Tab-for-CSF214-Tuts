@@ -12,6 +12,8 @@
     ```
     The first line contains the trigger/shortcut, I used `Shift + Tab`, you can use anything you like but make sure it doesn't block any other important functionality. Refer to AutoHotkey help to find what characters are used to reference different keys.
 
+4. Save the script, close the editing window and run it.
+
 AutoHotkey is much more powerful, so I'd highly recommend learning more about it.
 
 ### Story Time XD
