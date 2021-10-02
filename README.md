@@ -1,4 +1,4 @@
-# AutoHotkey Script to insert 4 spaces in textfields
+# AutoHotkey Script to remap Tab key to 4 Spaces
 
 1. Install [AutoHotkey](https://www.autohotkey.com/).
 
@@ -15,6 +15,10 @@
 4. Save the script, close the editing window and run it.
 
 AutoHotkey is much more powerful, so I'd highly recommend learning more about it.
+
+### Update
+
+Added shortcut to insert `______________________________` by pressing `Alt + |`.
 
 ### Story Time XD
 
