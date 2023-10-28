@@ -14,8 +14,6 @@
 
 4. Save the script, close the editing window and run it.
 
-AutoHotkey is much more powerful, so I'd highly recommend learning more about it.
-
 ### Update
 
 Added shortcut to insert `______________________________` by pressing `Alt + |`.
